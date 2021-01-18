@@ -9,6 +9,6 @@ Hello! I'm Henry born and raised in Silicon Valley. I'm currently a third year s
 
 ### Contact Info
 
-Email: [hlao1995@gmail.com](mailto:hlao1995@gmail.com) </br>
+Email: [hlao1995@gmail.com](mailto:hlao1995@gmail.com)
 Resume:
-LinkedIn: [https://www.linkedin.com/in/henry-lao/](https://www.linkedin.com/in/henry-lao/)</br>
+LinkedIn: [https://www.linkedin.com/in/henry-lao/](https://www.linkedin.com/in/henry-lao/)
