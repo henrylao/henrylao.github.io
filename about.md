@@ -4,12 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hello! I'm Henry born and raised in Silicon Valley. I'm currently a third year student at California State University East Bay pursuing a Bachelors in Computer Science. Solving problems and software development are my passions. On my leisure time, I am often reading about machine learning, playing guitar, playing games or reading up on ThinkPad mods.
 
-### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+### Contact Info
 
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+Email: [hlao1995@gmail.com](mailto:hlao1995@gmail.com) </br>
+Resume:
+LinkedIn: [https://www.linkedin.com/in/henry-lao/](https://www.linkedin.com/in/henry-lao/)</br>
