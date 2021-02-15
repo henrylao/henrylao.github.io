@@ -6,6 +6,9 @@ permalink: /about/
 
 Hello! I'm Henry born and raised in Silicon Valley. I'm currently a third year student at California State University East Bay pursuing a Bachelors in Computer Science. Solving problems and building software are my passions. On my leisure time, I like to read about machine learning, playing guitar, playing games and reading up on ThinkPad mods.
 
+### Portfolio
+
+Github: [https://github.com/henrylao](https://github.com/henrylao)
 
 ### Contact Info
 
